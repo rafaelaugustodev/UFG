@@ -40,7 +40,7 @@ Como os arquivos são escritos em C, você precisará de um compilador como o `g
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/UFG.git
+   https://github.com/rafaelaugustodev/UFG.git
    cd UFG
    ```
 
